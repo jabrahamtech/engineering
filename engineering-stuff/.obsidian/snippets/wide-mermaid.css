@@ -1,0 +1,9 @@
+/* Make all Mermaid diagrams shrink to fit the note width */
+.markdown-preview-view .mermaid svg {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.markdown-preview-view .mermaid {
+  max-width: 100%;
+}
