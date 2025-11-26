@@ -1,5 +1,5 @@
 ---
-cssclasses: wide-mermaid
+cssclasses:
 ---
 ### Adding locally hosted code to GitHub
 
