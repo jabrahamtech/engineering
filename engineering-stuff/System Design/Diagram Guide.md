@@ -1,8 +1,4 @@
 
-A practical reference for the main diagram types software architects use, with examples, when to use them, why to use them, who they are for, and Mermaid snippets you can paste into tools like Obsidian.
-
----
-
 ## 1. Big picture diagrams
 
 ### 1.1 System Context Diagram (C4 Level 1)
